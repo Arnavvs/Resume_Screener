@@ -36,8 +36,8 @@ It analyzes, scores, and ranks resumes against a job description, with deep insi
 ### 2. Setup
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/Arnavvs/Resume_Screener.git
+cd Resume_Screener
 
 # Create venv
 python -m venv venv
